@@ -4,8 +4,8 @@ title: My Testimony
 subtitle: I share my witness of Christ.
 date: 2023-07-07 09:41:00 -0600 #-0600 time code for Utah MDT (March to November)
 background: '/img/posts/my-testimony.webp'
-contributor_url: https://unsplash.com/
-contributor_title: Unsplash
+contributor_url: /
+contributor_title: Riley Grigg
 ---
 
 ## My Testimony
