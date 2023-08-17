@@ -2,7 +2,7 @@
 # This first post purposefully has all the frontmater as a template for future posts.
 layout: post # Necessary for each post
 title: Each One a Snowflake # Only needed if you want the title to be different than the file's title
-subtitle: I share my witness of Christ. # If this is not included, the homepage will show the first 15 words of your post. No description will be shown on the post page.
+subtitle: Each person is unique like a snowflake. Each person is loved by God individually. # If this is not included, the homepage will show the first 15 words of your post. No description will be shown on the post page.
 date: 2021-12-11 16:14:00 -0700 # -0600 time code for Utah MDT (March to November), -0700 (November to March), use 24 hour time and leading zereos.
 # updated: 2021-12-11 16:14:00 -0700 # (Use if you update the post. This date will be shown instead of the original post's date. Post order remains the same.)
 background: '/img/posts/each-one-a-snowflake.webp' # URL to the header's background image
