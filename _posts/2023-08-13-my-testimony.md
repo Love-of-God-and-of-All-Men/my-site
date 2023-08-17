@@ -1,0 +1,12 @@
+---
+layout: post
+title: My Testimony
+subtitle: I share my witness of Christ.
+date: 2023-07-07 09:41:00 -0600 #-0600 time code for Utah MDT (March to November)
+background: '/img/posts/my-testimony.webp'
+contributor_url: https://unsplash.com/
+contributor_title: Unsplash
+---
+
+## My Testimony
+I know that my Savior lives. I know He loves me and created all things for me. He has given me life, and good things here on earth. For that I am thankful.
