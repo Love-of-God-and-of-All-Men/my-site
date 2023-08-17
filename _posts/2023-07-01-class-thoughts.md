@@ -1,7 +1,9 @@
 ---
-tags: [bite, love, Jesus Christ, temptation, strength, power, institute]
-date: 2023-07-01 00:18
-updated: 2023-07-01 00:25
+layout: post
+subtitle: I share my witness of Christ.
+date: 2023-07-01 00:18:00 -0600
+updated: 2023-07-01 00:25:00 -0600
+background: '/img/posts/default.webp'
 ---
 
 Wednesday I had an amazing class on what we as a class have learned recently from God. Here are points from my notes as well as my own thoughts.

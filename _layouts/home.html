@@ -47,8 +47,14 @@ layout: default
             {% else %}
             {{ site.author }}
             {% endif %}
+            {% if post.updated %}
+            and updated on
+            {{ post.updated | date: '%B %d, %Y' }} 
+            {% else %}
             on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+            {{ post.date | date: '%B %d, %Y' }}            
+            {% endif %}
+            &middot; {% include read_time.html content=post.content %}
           </p>
         </article>
 
