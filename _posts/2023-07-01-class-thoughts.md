@@ -1,6 +1,5 @@
 ---
 layout: post
-subtitle: I share my witness of Christ.
 date: 2023-07-01 00:18:00 -0600
 updated: 2023-07-01 00:25:00 -0600
 background: '/img/posts/default.webp'
