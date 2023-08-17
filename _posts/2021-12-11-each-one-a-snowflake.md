@@ -5,7 +5,7 @@ title: Each One a Snowflake # Only needed if you want the title to be different 
 subtitle: I share my witness of Christ. # If this is not included, the homepage will show the first 15 words of your post. No description will be shown on the post page.
 date: 2021-12-11 16:14:00 -0700 # -0600 time code for Utah MDT (March to November), -0700 (November to March), use 24 hour time and leading zereos.
 background: '/img/posts/each-one-a-snowflake.webp' # URL to the header's background image
-contributor_url: https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText # URL to the post image contributor's main page (both contributor fields must be filled for them to show after the post's main text content)
+contributor_url: 'https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' # URL to the post image contributor's main page (both contributor fields must be filled for them to show after the post's main text content)
 contributor_title: Aaron Burden (Unsplash) # Image contributor's name
 ---
 
